@@ -1,4 +1,3 @@
-# kurdistan-covid-seir-arima-2025
 # COVID-19 Modeling in Kurdistan Province: SEIR and ARIMA Analysis
 
 This repository provides the complete computational workflow used in the manuscript:
